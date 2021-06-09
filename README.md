@@ -21,11 +21,10 @@ Entries that are autodetected should also show the proper icons.
 
 ### Attribution
 
-The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
+The OS icons are from [refind-theme-dark] by samuelmeuli.
 
-The theme is a modified version of [rEFInd-minimal] by EvanPurkhiser
+The theme is a modified version of [rEFInd-minimal] by EvanPurkhiser.
 
 
-[icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
-[icon-author]: http://sworiginal.deviantart.com/
+[refind-theme-dark]: https://github.com/samuelmeuli/refind-theme-dark
 [rEFInd-minimal]: https://github.com/EvanPurkhiser/rEFInd-minimal
