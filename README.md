@@ -22,11 +22,8 @@ Entries that are autodetected should also show the proper icons.
 ### Attribution
 
 The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
+The theme is a modified version of 
 
 
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com/
-
-[padster]: https://github.com/theRealPadster
-[wallpaper]: http://leonardoalanb.deviantart.com/art/Minimalist-wallpaper-295519786
-[wallpaper-author]: http://leonardoalanb.deviantart.com/
