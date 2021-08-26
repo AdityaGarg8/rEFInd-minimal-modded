@@ -10,9 +10,9 @@ based systems. This is a clean and minimal theme for it.
     though it will depend on where you mount your ESP and where rEFInd is
     installed. `fdisk -l` and `mount` may help.
 
- 2. Create a folder called `themes` inside it, if it doesn't already exist
+ 2. Create a folder called `themes` inside it, if it doesn't already exist. Then create a folder called `rEFInd-minimal` in the themes folder.
 
- 3. Clone this repository into the `themes` directory.
+ 3. Clone all contents of this repository into the `rEFInd-minimal` directory.
 
  4. To enable the theme add `include themes/rEFInd-minimal/theme.conf` at the end of
     `refind.conf`.
